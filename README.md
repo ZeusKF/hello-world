@@ -1,2 +1,3 @@
 # hello-world
-first program
+This is all very new and interesting
+Nothing ventured, nothing gained!
